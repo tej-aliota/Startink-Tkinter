@@ -11,3 +11,5 @@ the project that we are making later. Below are the pictures of the two things t
 <img width="2240" alt="Screen Shot 2023-10-30 at 2 29 58 PM" src="https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/0c459d66-a3ab-4949-965e-59ee8578618d">
 -----------------------------------------------------------------
 <img width="995" alt="Screen Shot 2023-10-30 at 2 17 21 PM" src="https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/e6f27300-e6d5-4151-a36e-ef8aceefa520">
+![My-Drawing](https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/ef02778e-aae4-48aa-a471-8172b04aa2b0)
+![My-Drawing (1)](https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/8e268eb3-6ca1-4690-b2aa-0cb541825dd3)
