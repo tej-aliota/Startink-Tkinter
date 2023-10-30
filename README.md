@@ -6,5 +6,7 @@ multiplying, squaring, dividing, etc. Then I moved on to experiement with drawin
 the project that we are making later. Below are the pictures of the two things that I created.
 
 <img width="2240" alt="Screen Shot 2023-10-30 at 2 15 40 PM" src="https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/5edc30a2-a75d-4b99-b81a-86d5220a0f11">
-
+-----------------------------------------------------------------
+<img width="2240" alt="Screen Shot 2023-10-30 at 2 29 58 PM" src="https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/0c459d66-a3ab-4949-965e-59ee8578618d">
+-----------------------------------------------------------------
 <img width="995" alt="Screen Shot 2023-10-30 at 2 17 21 PM" src="https://github.com/tej-aliota/Startink-Tkinter/assets/142935901/e6f27300-e6d5-4151-a36e-ef8aceefa520">
